@@ -8,7 +8,9 @@ class FaceLess {
 		publicaciones.sum({ p=>p.espacio() })
 	}
 	
-	method 
+	method meGusta(publicacion, usuario) {
+		publicacion
+	}
 	
 	
 	
